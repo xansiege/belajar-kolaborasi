@@ -2,3 +2,6 @@
 satu
 dua
 tiga
+satu
+dua
+tiga
