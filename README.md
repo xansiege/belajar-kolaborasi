@@ -1,7 +1,6 @@
 # belajar-kolaborasi
-satu
-dua
-tiga
-satu
-dua
-tiga
+
+beljar github di dicoding
+
+ahaaaa
+
